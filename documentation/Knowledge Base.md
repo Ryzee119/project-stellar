@@ -57,7 +57,7 @@ Be sure to check the diagnostic screen. A warning will be displayed if the custo
 
 ## Offline Firmware Updating
 For offline firmware updating, there are currently two options.
-- Via USB; follow the [Firmware Recovery](documentation/Firmware%20Recovery.md) guide.
+- Via USB; follow the [Firmware Recovery](Firmware%20Recovery.md) guide.
 - Via XBE; FTP the release ``StellarUpdateFW.xbe`` to your Xbox and use your custom dashboard of choice to launch it.
 
 ## Known Issues
